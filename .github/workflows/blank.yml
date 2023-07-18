@@ -1,0 +1,31 @@
+Copy code
+name: Dynamic Profile Readme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create README
+      run: |
+        echo "# Dynamic Profile Readme" >> README.md
+        echo >> README.md
+        echo "⚡ Hi there! I'm Paula, a passionate developer from Buenos Aires, Argentina." >> README.md
+        echo >> README.md
+        echo "🌱 I’m currently learning Full Stack Developer." >> README.md
+        echo >> README.md
+        echo "👯 I’m looking to collaborate on Front and styles projects >> README.md
+        echo >> README.md
+        echo "💬 Ask me about anything you want" >> README.md
+        echo >> README.md
+        echo "📫 How to reach me: Linkdein: María Paula Villamarin" >> README.md
+        echo >> README.md
+        echo "⚡ Fun fact: Im a graphic designer (: " >> README.md
