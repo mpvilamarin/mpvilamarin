@@ -29,3 +29,15 @@ I am passionate about technology and always on the lookout for new trends and to
   - LinkedIn ---> [María Paula Villamarín](https://www.linkedin.com/in/mar%C3%ADa-paula-villamarin-543599222/)
   - Email ---> mpvillamarin@gmail.com
   - 📞 +54 9 11 27073976 (Arg)
+
+## TECH SKILLS
+
+• Node.js • Express • JavaScript • React • Redux • CSS • HTML • SQL • PostgreSQL
+
+## SOFT SKILLS
+
+• Trabajo en equipo • Liderazgo • Creatividad • Proactividad • Autonomía • Analítico • Scrum
+
+## IDIOMAS
+
+• Español (Nativo) • [Inglés (C1 Advanced)](https://www.efset.org/cert/58hxLq)
