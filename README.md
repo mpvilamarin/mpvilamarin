@@ -36,8 +36,8 @@ I am passionate about technology and always on the lookout for new trends and to
 
 ## SOFT SKILLS
 
-• Trabajo en equipo • Liderazgo • Creatividad • Proactividad • Autonomía • Pensamiento Analítico • Scrum
+Teamwork • Leadership • Creativity • Proactivity • Autonomy • Analytical Thinking • Scrum
 
 ## IDIOMAS
 
-• Español (Nativo) • [Inglés (C1 Advanced)](https://www.efset.org/cert/58hxLq)
+• Spanish (Native) • [English (C1 Advanced)](https://www.efset.org/cert/58hxLq)
