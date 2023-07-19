@@ -9,23 +9,23 @@ I am passionate about technology and always on the lookout for new trends and to
 
 </div>
 
-## Projects 🔭 
+## PROJECTS 🔭 
 
 - Currently, I'm working on the Crisis Management Project.
 
-## Learning 🌱
+## LEARNING 🌱
 
 - Currently, I'm learning React, Redux, CSS, and Typescript.
 
-## Collaboration 👯
+## COLLABORATION 👯
 
 - I'm looking to collaborate on projects where they need a hand with front-end development and styling.
 
-## Ask me 💬
+## ASK ME 💬
 
 - Ask me about anything...!!! If I know it, I will respond; if not... I will learn!
 
-## 📫 How to reach me
+## 📫 HOW TO REACH ME
   - LinkedIn ---> [María Paula Villamarín](https://www.linkedin.com/in/mar%C3%ADa-paula-villamarin-543599222/)
   - Email ---> mpvillamarin@gmail.com
   - 📞 +54 9 11 27073976 (Arg)
