@@ -6,6 +6,7 @@
 <div align="center">
 
 I am passionate about technology and always on the lookout for new trends and tools to stay up-to-date. I enjoy taking on challenges and am committed to my personal and professional growth through continuous learning. I am a responsible and dedicated individual, and I am confident that I can bring value to any company that gives me the opportunity to enhance my skills and unleash my full potential in the workplace.
+As a Full Stack developer, I have put into practice my skills in programming, database management, web development, and the creation of custom applications and software. My focus has been primarily on the Front End, with extensive experience in JavaScript, CSS, HTML, React, Redux, SQL, and Node.js.
 
 </div>
 
