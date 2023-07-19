@@ -36,7 +36,7 @@ I am passionate about technology and always on the lookout for new trends and to
 
 ## SOFT SKILLS
 
-• Trabajo en equipo • Liderazgo • Creatividad • Proactividad • Autonomía • Analítico • Scrum
+• Trabajo en equipo • Liderazgo • Creatividad • Proactividad • Autonomía • Pensamiento Analítico • Scrum
 
 ## IDIOMAS
 
